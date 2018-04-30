@@ -1,4 +1,4 @@
-# sbatch
+# sacct
 
 > Displays accounting data for the Slurm workload manager
 
